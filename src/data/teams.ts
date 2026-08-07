@@ -4,7 +4,7 @@ export const TEAMS: Team[] = [
   // GRUPO A
   {
     id: 'bayern',
-    name: 'FC Bayern',
+    name: 'FC BAYERN MUNCHEN',
     shortName: 'BAY',
     group: 'A',
     primaryColor: '#DC052D',
