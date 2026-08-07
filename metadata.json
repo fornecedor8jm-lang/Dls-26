@@ -1,0 +1,6 @@
+{
+  "name": "Copa DLS 2026",
+  "description": "Tabela oficial, estatísticas em tempo real, jogos e classificação da Copa DLS de Futebol Virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
