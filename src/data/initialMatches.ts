@@ -12,7 +12,7 @@ export const INITIAL_MATCHES: Match[] = [
     awayTeamId: 'bluelock',
     status: 'SCHEDULED',
     date: '2026-08-08',
-    timeBRT: '15:00',
+    timeBRT: '15:30',
     timeCAT: '20:30'
   },
   {
