@@ -110,9 +110,19 @@ export const CountdownHeader: React.FC<CountdownHeaderProps> = ({
               </span>
             </div>
 
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight text-white font-display uppercase leading-none">
-              COPA DLS <span className="text-[#138A4B]">2026</span>
-            </h1>
+            <div className="flex items-center gap-3 min-w-0">
+              <img
+                src="/copa-dls-26-logo-final.png"
+                alt="Logo Copa DLS 26"
+                className="h-28 w-28 sm:h-36 sm:w-36 object-contain shrink-0"
+              />
+              <div className="min-w-0">
+                <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight text-white font-display uppercase leading-none">
+                  COPA DLS <span className="text-[#138A4B]">26</span>
+                </h1>
+                <p className="text-[11px] sm:text-xs text-slate-400 uppercase tracking-[0.2em] mt-2">Torneio oficial</p>
+              </div>
+            </div>
 
             <p className="text-xs sm:text-sm md:text-base text-slate-300 leading-relaxed max-w-2xl font-normal">
               Acompanhe as informações oficiais, a tabela e a programação da Copa DLS 26.
